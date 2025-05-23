@@ -17,9 +17,6 @@
   <img src="https://img.shields.io/badge/Java-2f3136?style=flat&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Minecraft-2f3136?style=flat&logo=minecraft&logoColor=white"/>
 </p>
-
-### 📫 連絡先 | Where to Find Me
-
 <p align="center">
   <img src="https://img.shields.io/badge/Discord-souta%231234-2f3136?style=flat&logo=discord&logoColor=white"/>
   <img src="https://img.shields.io/badge/Email-yourmail@example.com-2f3136?style=flat&logo=gmail&logoColor=white"/>
