@@ -9,11 +9,6 @@
   <i>「静かな情熱で、世界を変える。」</i><br/>
   <sub><i>“Changing the world with quiet passion.”</i></sub>
 </p>
-
----
-
-### 🛠️ スキル | My Stack
-
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-2f3136?style=flat&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-2f3136?style=flat&logo=css3&logoColor=white"/>
@@ -23,16 +18,12 @@
   <img src="https://img.shields.io/badge/Minecraft-2f3136?style=flat&logo=minecraft&logoColor=white"/>
 </p>
 
----
-
 ### 📫 連絡先 | Where to Find Me
 
 <p align="center">
   <img src="https://img.shields.io/badge/Discord-souta%231234-2f3136?style=flat&logo=discord&logoColor=white"/>
   <img src="https://img.shields.io/badge/Email-yourmail@example.com-2f3136?style=flat&logo=gmail&logoColor=white"/>
 </p>
-
----
 
 <p align="center">
   <i>「焦らず、ゆっくり、でも確実に。」</i><br/>
