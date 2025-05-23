@@ -5,8 +5,15 @@
 
 <p align="center">
   Just a chill dev who codes with a cup of tea ☕ and lo-fi in the background 🎧<br/>
-  <i>「静かな情熱で、世界を変える。」</i> — Changing the world with quiet passion
+  I love creating calm, functional things — both in code and in life.<br/>
+  <i>「静かな情熱で、世界を変える。」</i><br/>
+  <sub><i>“Changing the world with quiet passion.”</i></sub>
 </p>
+
+---
+
+### 🛠️ スキル | My Stack
+
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-2f3136?style=flat&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-2f3136?style=flat&logo=css3&logoColor=white"/>
@@ -16,13 +23,20 @@
   <img src="https://img.shields.io/badge/Minecraft-2f3136?style=flat&logo=minecraft&logoColor=white"/>
 </p>
 
+---
+
 ### 📫 連絡先 | Where to Find Me
+
 <p align="center">
-  💬 Discord: <code>souta#1234</code><br/>
-  📧 Email: <a href="mailto:yourmail@example.com">yourmail@example.com</a>
+  <img src="https://img.shields.io/badge/Discord-souta%231234-2f3136?style=flat&logo=discord&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-yourmail@example.com-2f3136?style=flat&logo=gmail&logoColor=white"/>
 </p>
+
+---
 
 <p align="center">
   <i>「焦らず、ゆっくり、でも確実に。」</i><br/>
-  <sub><i>“No rush. Slowly, but surely.”</i></sub>
+  <sub><i>“No rush. Slowly, but surely.”</i></sub><br/><br/>
+  <i>「時には風に身を任せて、前へ進もう。」</i><br/>
+  <sub><i>“Sometimes, go with the wind — and move forward.”</i></sub>
 </p>
