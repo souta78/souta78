@@ -7,8 +7,6 @@
   I'm a web developer who builds things with clean code and calm energy 🌿<br/>
   I also love setting up Minecraft servers — from plugins to full-blown mods ⚙️<br/>
   When I’m not coding, I’m probably watching anime or vibing with lo-fi 🎧🌙<br/>
-  <i>「静かな情熱で、世界を変える。」</i><br/>
-  <sub><i>“Changing the world with quiet passion.”</i></sub>
 </p>
 
 <p align="center">
