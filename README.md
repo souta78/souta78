@@ -7,11 +7,6 @@
   Just a chill dev who codes with a cup of tea ☕ and lo-fi in the background 🎧<br/>
   <i>「静かな情熱で、世界を変える。」</i> — Changing the world with quiet passion
 </p>
-
----
-
-### 🛠️ スキル | My Stack
-
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-2f3136?style=flat&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-2f3136?style=flat&logo=css3&logoColor=white"/>
