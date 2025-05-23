@@ -23,16 +23,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=souta&theme=calm&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=souta&show_icons=true&theme=calm&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
-</p>
-
----
-
 ### 📫 連絡先 | Where to Find Me
 <p align="center">
   💬 Discord: <code>souta#1234</code><br/>
