@@ -23,6 +23,3 @@
   <img src="https://img.shields.io/badge/Discord-souta%231234-2f3136?style=flat&logo=discord&logoColor=white"/>
   <img src="https://img.shields.io/badge/Email-yourmail@example.com-2f3136?style=flat&logo=gmail&logoColor=white"/>
 </p>
-<p align="center">
-  <i>「焦らず、ゆっくり、でも確実に。」</i><br/>
-  <sub><i>“No rush. Slowly, but surely.”</i></sub><br/><br/>
