@@ -1,34 +1,37 @@
-<img src="https://i.pinimg.com/originals/d8/bf/32/d8bf3287a8ad85cc5270b26be1e11e4b.gif" alt="banner" width="100%"/>
+<!-- Ganti link di bawah ini dengan link banner dari kamu -->
+<img src="https://i.pinimg.com/736x/22/3c/ac/223cac80614c7884561d864293ff1e32.jpg" alt="anime banner" width="100%"/>
 
-<h1 align="center">Hi there, I'm Souta 👋</h1>
+<h1 align="center">やあ、蒼太です！🌸</h1>
+<p align="center">Hi, I'm <strong>Souta</strong> — a front-end developer & Minecraft enthusiast.</p>
 
 <p align="center">
-  A passionate developer who enjoys building things with code.<br/>
-  🌱 Currently exploring the world of <strong>React.js</strong> and backend tools.<br/>
-  🎮 Also a Minecraft enthusiast who loves modding and setup automation.<br/>
+  💻 <i>「コードは、私の魔法です。」</i><br/>
+  <sub><i>“Code is my magic.”</i></sub>
 </p>
 
 ---
 
-### 💻 Tech Stack
-- 🌐 HTML | CSS | JavaScript
+### 🛠️ スキル | Skills
+- 🌐 HTML・CSS・JavaScript
 - ⚛️ React.js
 - ☕ Java
-- 🧱 Minecraft Modding & Server Setup
+- 🧩 Minecraft Modding・Server Setup
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=souta&show_icons=true&theme=tokyonight" alt="Souta's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=souta&show_icons=true&theme=rose_pine&hide_title=true" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souta&layout=compact&theme=tokyonight" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souta&layout=compact&theme=rose_pine" />
 </p>
 
 ---
 
-### 📫 Contact
+### 📫 連絡先 | Contact
 - Discord: `souta#1234`
-- Email: [yourmail@example.com](mailto:yourmail@example.com)
+- メール: [yourmail@example.com](mailto:yourmail@example.com)
 
-<!-- Feel free to customize the links and stats -->
+<p align="center">
+  <i>“Be like the wind... gentle but unstoppable.”</i> 🍃
+</p>
