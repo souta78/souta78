@@ -29,8 +29,6 @@
   📧 Email: <a href="mailto:yourmail@example.com">yourmail@example.com</a>
 </p>
 
----
-
 <p align="center">
   <i>「焦らず、ゆっくり、でも確実に。」</i><br/>
   <sub><i>“No rush. Slowly, but surely.”</i></sub>
