@@ -18,6 +18,6 @@
   <img src="https://img.shields.io/badge/Minecraft-2f3136?style=flat&logo=minecraft&logoColor=white"/>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Discord-souta%231234-2f3136?style=flat&logo=discord&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Email-yourmail@example.com-2f3136?style=flat&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Discord-nyxd185-2f3136?style=flat&logo=discord&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-exesouta@gmail.com-2f3136?style=flat&logo=gmail&logoColor=white"/>
 </p>
