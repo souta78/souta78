@@ -1,7 +1,7 @@
 <!-- Banner tetap -->
-<img src="https://i.pinimg.com/736x/82/31/45/823145902c27762579a608edf643dd27.jpg" alt="anime banner" width="100%"/>
+<img src="https://i.pinimg.com/736x/1e/4a/8b/1e4a8bd4bef20d46a2123c9b39dd2a09.jpg" alt="anime banner" width="100%"/>
 
-<h1 align="center">やあ、蒼太です — I'm Souta 🌸</h1>
+<h1 align="center">やあ、蒼太です — I'm Souta 💙</h1>
 
 <p align="center">
   I'm a web developer who builds things with clean code and calm energy 🌿<br/>
