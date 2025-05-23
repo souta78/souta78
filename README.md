@@ -1,39 +1,34 @@
-# Hi, I'm [Nama Kamu] 👋
+<img src="https://i.imgur.com/kB0zXtD.jpg" alt="banner" width="100%"/>
 
-I'm a frontend developer who enjoys building clean and functional web interfaces using modern tools like **ReactJS**, **TailwindCSS**, and **JavaScript**. I'm currently learning and exploring more about full-stack development and good UI/UX practices.
+<h1 align="center">Hi there, I'm Souta 👋</h1>
 
----
-
-### 🛠 Tech Stack
-
-- **Languages:** JavaScript, HTML, CSS
-- **Frameworks & Libraries:** React, TailwindCSS
-- **Tools:** Git, GitHub, VS Code
+<p align="center">
+  A passionate developer who enjoys building things with code.<br/>
+  🌱 Currently exploring the world of <strong>React.js</strong> and backend tools.<br/>
+  🎮 Also a Minecraft enthusiast who loves modding and setup automation.<br/>
+</p>
 
 ---
 
-### 🌱 Currently Learning
-
-- REST APIs & Full-stack development
-- React hooks, state management
-- GitHub Actions & deployment best practices
-
----
-
-### 📫 Contact
-
-- Email: [emailkamu@email.com](mailto:emailkamu@email.com)
-- LinkedIn: [linkedin.com/in/namakamu](https://linkedin.com/in/namakamu)
+### 💻 Tech Stack
+- 🌐 HTML | CSS | JavaScript
+- ⚛️ React.js
+- ☕ Java
+- 🧱 Minecraft Modding & Server Setup
 
 ---
 
 ### 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=usernamekamu&show_icons=true&hide_title=true&hide_border=true&theme=calm)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=souta&show_icons=true&theme=tokyonight" alt="Souta's GitHub stats"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souta&layout=compact&theme=tokyonight" alt="Top Langs"/>
+</p>
 
 ---
 
-### 🧩 Top Languages
+### 📫 Contact
+- Discord: `souta#1234`
+- Email: [yourmail@example.com](mailto:yourmail@example.com)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usernamekamu&layout=compact&hide_border=true&theme=calm)
-
+<!-- Feel free to customize the links and stats -->
