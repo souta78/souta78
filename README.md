@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/71/67/24/716724ce2ccf45f7269b68ff23702bd7.gif" alt="banner" width="100%"/>
+<img src="https://i.pinimg.com/736x/af/a2/6c/afa26cf9027828c1d6e3778576345cab.jpg" alt="banner" width="100%"/>
 
 <h1 align="center">Hi there, I'm Souta 👋</h1>
 
