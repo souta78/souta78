@@ -21,8 +21,6 @@
   <img src="https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white"/>
 </p>
 
----
-
 ### 📫 連絡先 | Where to Find Me
 <p align="center">
   💬 Discord: <code>souta#1234</code><br/>
