@@ -4,9 +4,13 @@
 <h1 align="center">やあ、蒼太です — I'm Souta 🌸</h1>
 
 <p align="center">
-  Just a chill dev who codes with a cup of tea ☕ and lo-fi in the background 🎧<br/>
-  I love creating calm, functional things — both in code and in life.<br/>
+  I'm a web developer who builds things with clean code and calm energy 🌿<br/>
+  I also love setting up Minecraft servers — from plugins to full-blown mods ⚙️<br/>
+  When I’m not coding, I’m probably watching anime or vibing with lo-fi 🎧🌙<br/>
+  <i>「静かな情熱で、世界を変える。」</i><br/>
+  <sub><i>“Changing the world with quiet passion.”</i></sub>
 </p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-2f3136?style=flat&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-2f3136?style=flat&logo=css3&logoColor=white"/>
