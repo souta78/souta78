@@ -6,8 +6,6 @@
 <p align="center">
   Just a chill dev who codes with a cup of tea ☕ and lo-fi in the background 🎧<br/>
   I love creating calm, functional things — both in code and in life.<br/>
-  <i>「静かな情熱で、世界を変える。」</i><br/>
-  <sub><i>“Changing the world with quiet passion.”</i></sub>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-2f3136?style=flat&logo=html5&logoColor=white"/>
@@ -24,6 +22,3 @@
 <p align="center">
   <i>「焦らず、ゆっくり、でも確実に。」</i><br/>
   <sub><i>“No rush. Slowly, but surely.”</i></sub><br/><br/>
-  <i>「時には風に身を任せて、前へ進もう。」</i><br/>
-  <sub><i>“Sometimes, go with the wind — and move forward.”</i></sub>
-</p>
