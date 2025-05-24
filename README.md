@@ -15,7 +15,6 @@
   <img src="https://img.shields.io/badge/JavaScript-2f3136?style=flat&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-2f3136?style=flat&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-2f3136?style=flat&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Minecraft-2f3136?style=flat&logo=minecraft&logoColor=white"/>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Discord-nyxd185-2f3136?style=flat&logo=discord&logoColor=white"/>
