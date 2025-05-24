@@ -1,8 +1,8 @@
 <!-- Banner tetap -->
-<img src="https://i.pinimg.com/originals/51/1e/1e/511e1e786c8099dbf10441fa82f60d13.gif" alt="anime banner" width="100%"/>
+
 
 <h1 align="center">やあ、蒼太です — I'm Souta 💙</h1>
-
+<img src="https://i.pinimg.com/originals/37/ea/39/37ea3933cb6eba0cf3834b5fbcaee445.gif" alt="anime banner" width="100%"/>
 <p align="center">
   I'm a web developer who builds things with clean code and calm energy 🌿<br/>
   I also love setting up Minecraft servers — from plugins to full-blown mods ⚙️<br/>
