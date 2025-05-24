@@ -1,5 +1,5 @@
 <!-- Banner tetap -->
-<img src="https://i.pinimg.com/736x/1e/4a/8b/1e4a8bd4bef20d46a2123c9b39dd2a09.jpg" alt="anime banner" width="100%"/>
+<img src="https://i.pinimg.com/originals/51/1e/1e/511e1e786c8099dbf10441fa82f60d13.gif" alt="anime banner" width="100%"/>
 
 <h1 align="center">やあ、蒼太です — I'm Souta 💙</h1>
 
