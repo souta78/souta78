@@ -1,10 +1,11 @@
-
 <img src="https://i.pinimg.com/736x/22/3c/ac/223cac80614c7884561d864293ff1e32.jpg" alt="anime banner" width="100%"/>
 
 <h1 align="center">やあ、蒼太です — I'm Souta 💙</h1>
 
 <p align="center">
-  I'm a web developer who builds things with clean code and calm energy I also love setting up Minecraft servers — from plugins to full-blown mods When I’m not coding, I’m probably watching anime or vibing with lo-fi
+  I'm a web developer who builds things with clean code and calm energy.<br/>
+  I also love setting up Minecraft servers — from custom plugins to full-on setups.<br/>
+  Also into anime and the chill side of tech.
 </p>
 
 <p align="center">
@@ -20,7 +21,14 @@
   <img src="https://img.shields.io/badge/Email-exesouta@gmail.com-2f3136?style=flat&logo=gmail&logoColor=white"/>
 </p>
 
-<!-- Lanyard Discord Status (Real-time) -->
+<!-- Spotify Now Playing -->
+<p align="center">
+  <a href="https://open.spotify.com/user/31vmimle5oj4vhqzhoi76y3frnaa">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true" />
+  </a>
+</p>
+
+<!-- Lanyard Discord Status -->
 <p align="center">
   <img src="https://lanyard.cnrad.dev/api/242734895330230272?hideTimestamp=true&hideActivity=true&hideDiscrim=true&bg=A8CCE7&hideStatus=true"/>
 </p>
