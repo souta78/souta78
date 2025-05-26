@@ -21,14 +21,12 @@
   <img src="https://img.shields.io/badge/Email-exesouta@gmail.com-2f3136?style=flat&logo=gmail&logoColor=white"/>
 </p>
 
-<!-- Spotify Compact Badge (cleanest version) -->
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31vmimle5oj4vhqzhoi76y3frnaa&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31vmimle5oj4vhqzhoi76y3frnaa&cover_image=false&theme=compact&show_offline=true&background_color=121212&interchange=true" alt="Spotify Now Playing"/>
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31vmimle5oj4vhqzhoi76y3frnaa&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=false&bar_color=33d17a&bar_color_cover=true" alt="Spotify Now Playing"/>
   </a>
 </p>
 
-<!-- Lanyard Discord Status -->
 <p align="center">
   <img src="https://lanyard.cnrad.dev/api/242734895330230272?hideTimestamp=true&hideActivity=true&hideDiscrim=true&bg=A8CCE7&hideStatus=true"/>
 </p>
