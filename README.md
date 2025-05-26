@@ -21,10 +21,10 @@
   <img src="https://img.shields.io/badge/Email-exesouta@gmail.com-2f3136?style=flat&logo=gmail&logoColor=white"/>
 </p>
 
-<!-- Spotify (compact style) -->
+<!-- Spotify Badge (natemoo-re theme, with cover) -->
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31vmimle5oj4vhqzhoi76y3frnaa&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31vmimle5oj4vhqzhoi76y3frnaa&cover_image=false&theme=compact&show_offline=true&background_color=121212&interchange=false" alt="Spotify Now Playing"/>
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31vmimle5oj4vhqzhoi76y3frnaa&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing"/>
   </a>
 </p>
 
