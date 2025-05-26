@@ -22,5 +22,5 @@
 
 <!-- Lanyard Discord Status (Real-time) -->
 <p align="center">
-  <img src="[![Discord Presence](https://lanyard.cnrad.dev/api/242734895330230272?hideTimestamp=true&hideActivity=true&hideDiscrim=true&bg=)](https://discord.com/users/242734895330230272)"/>
+  <img src="https://lanyard.cnrad.dev/api/242734895330230272?hideTimestamp=true&hideActivity=true&hideDiscrim=true&bg="/>
 </p>
