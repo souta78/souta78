@@ -24,7 +24,7 @@
 <!-- Spotify Now Playing -->
 <p align="center">
   <a href="https://open.spotify.com/user/31vmimle5oj4vhqzhoi76y3frnaa">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true" />
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31vmimle5oj4vhqzhoi76y3frnaa&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true" />
   </a>
 </p>
 
