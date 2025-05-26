@@ -23,5 +23,5 @@
 
 
 <p align="center">
-  <img src="https://lanyard.cnrad.dev/api/242734895330230272?hideStatus=true&theme=light&showDisplayName=true"/>
+  <img src="https://lanyard.cnrad.dev/api/242734895330230272?hideStatus=true&theme=light&showDisplayName=true&hideActivity=true"/>
 </p>
