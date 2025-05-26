@@ -21,12 +21,14 @@
   <img src="https://img.shields.io/badge/Email-exesouta@gmail.com-2f3136?style=flat&logo=gmail&logoColor=white"/>
 </p>
 
+<!-- Spotify (compact style) -->
 <p align="center">
-  <a href="https://open.spotify.com/user/31vmimle5oj4vhqzhoi76y3frnaa">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31vmimle5oj4vhqzhoi76y3frnaa&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true" />
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31vmimle5oj4vhqzhoi76y3frnaa&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31vmimle5oj4vhqzhoi76y3frnaa&cover_image=false&theme=compact&show_offline=true&background_color=121212&interchange=false" alt="Spotify Now Playing"/>
   </a>
 </p>
 
+<!-- Lanyard Discord Status -->
 <p align="center">
   <img src="https://lanyard.cnrad.dev/api/242734895330230272?hideTimestamp=true&hideActivity=true&hideDiscrim=true&bg=A8CCE7&hideStatus=true"/>
 </p>
