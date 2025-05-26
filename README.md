@@ -24,5 +24,5 @@
 
 <!-- Lanyard Discord Status (Real-time) -->
 <p align="center">
-  <img src="https://lanyard.cnrad.dev/api/YOUR_DISCORD_USER_ID?theme=dark&borderRadius=10px&idleMessage=Probably%20vibing%20somewhere..."/>
+  <img src="https://lanyard.cnrad.dev/api/242734895330230272?theme=dark&borderRadius=10px&idleMessage=Probably%20vibing%20somewhere..."/>
 </p>
