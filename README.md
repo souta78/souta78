@@ -4,9 +4,7 @@
 <h1 align="center">やあ、蒼太です — I'm Souta 💙</h1>
 
 <p align="center">
-  I'm a web developer who builds things with clean code and calm energy 🌿<br/>
-  I also love setting up Minecraft servers — from plugins to full-blown mods ⚙️<br/>
-  When I’m not coding, I’m probably watching anime or vibing with lo-fi 🎧🌙<br/>
+  I'm a web developer who builds things with clean code and calm energy I also love setting up Minecraft servers — from plugins to full-blown mods When I’m not coding, I’m probably watching anime or vibing with lo-fi
 </p>
 
 <p align="center">
