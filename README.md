@@ -3,7 +3,9 @@
 <h1 align="center">やあ、蒼太です — I'm Souta 💙</h1>
 
 <p align="center">
-I'm a web developer who enjoys building things with clean, maintainable code and a calm mindset. From crafting beautiful UIs to optimizing backend logic, I aim for both function and vibe. I also enjoy managing Minecraft servers — from custom plugin development to running full setups for friends.When I'm not coding, you'll probably find me deep into anime or experimenting with small creative projects related to tech.
+I'm a web developer who enjoys building clean, functional websites with a calm vibe.  
+I love setting up Minecraft servers — from writing custom plugins to running full setups.  
+Also into anime and small creative tech projects when I'm not coding.
 </p>
 
 <p align="center">
