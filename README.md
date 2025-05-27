@@ -26,4 +26,4 @@ Also into anime and small creative tech projects when I'm not coding.
 
 <p align="center">
   <img src="https://lanyard.cnrad.dev/api/242734895330230272?hideStatus=true&theme=light&showDisplayName=true&hideActivity=true"/>
-</p> nih 
+</p>
