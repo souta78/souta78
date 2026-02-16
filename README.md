@@ -21,7 +21,6 @@ Also into anime and small creative tech projects when I'm not coding.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Discord-nyxd185-2f3136?style=flat&logo=discord&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Email-exesouta@gmail.com-2f3136?style=flat&logo=gmail&logoColor=white"/>
 </p>
 
 <p align="center">
