@@ -1,5 +1,3 @@
-<img src="https://i.pinimg.com/736x/22/3c/ac/223cac80614c7884561d864293ff1e32.jpg" alt="anime banner" width="100%"/>
-
 <h1 align="center">やあ、蒼太です — Lumin</h1>
 
 <p align="center">
