@@ -1,9 +1,10 @@
 <h1 align="center">やあ、蒼太です — Lumin</h1>
 
 <p align="center">
-I'm a web developer who enjoys building clean, functional websites with a calm vibe.  
-I love setting up Minecraft servers — from writing custom plugins to running full setups.  
-Also into anime and small creative tech projects when I'm not coding.
+Web developer specializing in clean, functional, and user-focused design.
+Roblox developer experienced in gameplay systems and modern UI/UX.
+Minecraft server engineer creating custom plugins and full server setups.
+Passionate about anime and small creative technology projects.
 </p>
 
 <p align="center">
